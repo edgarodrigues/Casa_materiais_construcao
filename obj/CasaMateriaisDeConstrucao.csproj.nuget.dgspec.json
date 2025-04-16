@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alunos\\Documents\\Edgar\\Casa_materiais_construcao\\Casa_materiais_construcao\\CasaMateriaisDeConstrucao\\CasaMateriaisDeConstrucao.csproj": {}
+    "C:\\Users\\Alunos\\Documents\\Edgar\\Casa_materiais_construcao\\CasaMateriaisDeConstrucao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alunos\\Documents\\Edgar\\Casa_materiais_construcao\\Casa_materiais_construcao\\CasaMateriaisDeConstrucao\\CasaMateriaisDeConstrucao.csproj": {
+    "C:\\Users\\Alunos\\Documents\\Edgar\\Casa_materiais_construcao\\CasaMateriaisDeConstrucao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alunos\\Documents\\Edgar\\Casa_materiais_construcao\\Casa_materiais_construcao\\CasaMateriaisDeConstrucao\\CasaMateriaisDeConstrucao.csproj",
+        "projectUniqueName": "C:\\Users\\Alunos\\Documents\\Edgar\\Casa_materiais_construcao\\CasaMateriaisDeConstrucao.csproj",
         "projectName": "CasaMateriaisDeConstrucao",
-        "projectPath": "C:\\Users\\Alunos\\Documents\\Edgar\\Casa_materiais_construcao\\Casa_materiais_construcao\\CasaMateriaisDeConstrucao\\CasaMateriaisDeConstrucao.csproj",
+        "projectPath": "C:\\Users\\Alunos\\Documents\\Edgar\\Casa_materiais_construcao\\CasaMateriaisDeConstrucao.csproj",
         "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alunos\\Documents\\Edgar\\Casa_materiais_construcao\\Casa_materiais_construcao\\CasaMateriaisDeConstrucao\\obj\\",
+        "outputPath": "C:\\Users\\Alunos\\Documents\\Edgar\\Casa_materiais_construcao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"
