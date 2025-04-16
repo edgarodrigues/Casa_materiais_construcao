@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\Edgar\\Casa_materiais_construcao\\wwwroot\\Nossa_historia.html",
+      "PackagePath": "staticwebassets\\Nossa_historia.html"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\Edgar\\Casa_materiais_construcao\\wwwroot\\Produtos.html",
+      "PackagePath": "staticwebassets\\Produtos.html"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\Edgar\\Casa_materiais_construcao\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CasaMateriaisDeConstrucao.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CasaMateriaisDeConstrucao.props",
+      "PackagePath": "build\\CasaMateriaisDeConstrucao.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CasaMateriaisDeConstrucao.props",
+      "PackagePath": "buildMultiTargeting\\CasaMateriaisDeConstrucao.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CasaMateriaisDeConstrucao.props",
+      "PackagePath": "buildTransitive\\CasaMateriaisDeConstrucao.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
